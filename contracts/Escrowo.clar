@@ -1,5 +1,5 @@
 ;; Decentralized Escrow Service Smart Contract
-;; Enables secure peer-to-peer transactions with escrow protection
+;; Enables secure peer-to-peer transactions with secure escrow protection
 
 ;; Constants
 (define-constant contract-owner tx-sender)
